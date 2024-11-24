@@ -1,0 +1,34 @@
+body{
+    font-family: sans-serif;
+    background-color: bisque;
+    color: rgb(219, 138, 32);
+}
+
+.logo{
+ width: 100px;
+}
+p{
+    text-align: justify;
+    width: 80%;
+    color: rgb(170, 122, 58);
+}
+main img{
+    width: 80%;
+}
+
+nav{
+    background-color:rgb(170, 122, 58) ;
+    padding: 20px;
+
+}
+nav a{
+    background-color: beige;
+    color: rgb(219, 138, 32);
+    padding: 10px;
+    border-radius: 5px;
+    text-decoration: none;
+    font-weight: bold;
+    margin: 15px 30px;
+    margin-left: 60px;
+    text-align: center;
+}
